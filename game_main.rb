@@ -129,10 +129,10 @@ class InnGame
       end
       puts ("="*50)
     end
-    puts("Congratulations! You finished the game in #{@time}, your scores are:\n
-          Metal => #{@over_all_metal}\n
-          Fibre => #{@over_all_fibre}\n
-          Gas => #{@over_all_gas}\n
+    puts("Congratulations! You finished the game in #{@time} minutes, your scores are:\n
+          Overall Metal => #{@over_all_metal}\n
+          Overall Fibre => #{@over_all_fibre}\n
+          Overall Gas => #{@over_all_gas}\n
           Warehouse level => #{@warehouse_level}\n
           Industry level => #{@industry_level}")
   end
