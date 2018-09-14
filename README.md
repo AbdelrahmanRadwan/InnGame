@@ -3,7 +3,9 @@ InnGame is a famous strategic space game based on [OGame](https://es.ogame.gamef
 
 
 ## How to run
-
+```bash
+ruby play.rb
+```
 ## How it works
 ### Initial stamina
 Initial stamina ...
@@ -27,4 +29,8 @@ What is needed to be reached ...
 | 50k | 30k | 0 | 10 | 8 |
 
 Based on the given tables, it works like this ...
+1) 
+2) 
+3) 
+4) 
 
